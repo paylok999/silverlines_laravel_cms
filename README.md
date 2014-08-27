@@ -1,5 +1,9 @@
 ##Installation
-	just clone it onto your htdocs folder or any
+	just clone it onto your htdocs folder 
+	
+Install the packages
+
+    composer update
 
 Import homestead.sql into your database engine
 
